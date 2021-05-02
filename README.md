@@ -42,7 +42,7 @@ docker pull makuznet/8_5_2-docker-image:latest
 This repo was inspired by [skillfactory.ru](https://skillfactory.ru/devops#syllabus) team
 ## See Also
 -[Docker Hub](https://hub.docker.com)  
--[My Docker repo on GitHub](https://github.com/makuznet/8_5_2-docker-image)  
+-[My Docker repo on Docker Hub](https://hub.docker.com/repository/docker/makuznet/8_5_2-docker-image)  
 
 ## License
 Follow all involved parties licenses terms and conditions.
